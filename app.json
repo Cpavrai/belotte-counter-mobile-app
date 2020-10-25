@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "belotte-counter",
+    "slug": "belotte-counter",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": false
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "owner": "Cpavrai",
+    "description": "Mobile application in React Native for counting points in Belotte game, by round"
+  }
+}
